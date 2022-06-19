@@ -1,2 +1,6 @@
 I am conflict merge filee added
+<<<<<<< HEAD
 i am added by user 123
+=======
+i am adeded user2
+>>>>>>> b366b1c206739298f844524d06ed8de4436f4ae2
