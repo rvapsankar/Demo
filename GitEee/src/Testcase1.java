@@ -10,7 +10,6 @@ public class Testcase1 {
 		
 		 System.out.println("raviconflict babu");
 		 System.out.println("raviconflict babu");
-		 System.out.println("raviconflict babu");
 	       
 		 System.out.println("ravi kumar");
        
