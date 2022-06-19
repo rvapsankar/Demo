@@ -8,10 +8,8 @@ public class Testcase1 {
            System.out.println("Testcase1234");
            System.out.println("ravi kumar");
 		
-		 System.out.println("raviconflict babu");
-		 System.out.println("raviconflict babu");
-	       
-		 System.out.println("ravi kumar");
+		
+		
        
         
 	
